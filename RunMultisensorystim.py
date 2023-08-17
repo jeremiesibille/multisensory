@@ -11,7 +11,7 @@ import TDT_toolboxes_mw as OurTDT
 from datetime import date
 
 #here we import for visual stim
-import OurSetup_New as OurSetup
+import Toolboxes_multisensory as OurSetup
 # import matplotlib.pyplot as plt
 #the next ones are extra script just for visual
 import ImageStimulus
