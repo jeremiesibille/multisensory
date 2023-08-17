@@ -169,9 +169,6 @@ def generate_filename_and_make_folders(params):
     
     return filename_save
 
-
-#%% There starts the functions for the sounds exposure
-
 #%% There starts the functions for the sounds exposure
 #%% There starts the functions for the sounds exposure
 
